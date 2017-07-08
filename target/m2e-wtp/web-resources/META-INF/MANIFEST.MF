@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring4MvcAngularJs1Example Maven Webapp
+Implementation-Version: 1.0.0
+Built-By: Ravi.Kumar
+Implementation-Vendor-Id: com.javacodepoint.springmvc
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
